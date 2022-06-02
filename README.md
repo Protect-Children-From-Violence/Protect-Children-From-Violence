@@ -43,3 +43,10 @@ your prompt and persistent attention to this matter.
 
 If one wanted to send a similar letter to any of their elected officials, it
 should need only minor editing.
+
+
+*Note*
+
+Images in logo created using [This Person Does Not
+Exist](https://thispersondoesnotexist.com/)
+
