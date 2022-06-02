@@ -10,7 +10,7 @@ schedules.
 ## Letter template
 
 The following text may be a template for someone if they chose to send
-a letter to the editor of this local paper:
+a letter to the editor of their local paper:
 
 ```
 When items related to violence against children drop out of the
