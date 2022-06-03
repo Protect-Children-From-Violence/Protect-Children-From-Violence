@@ -47,6 +47,8 @@ should need only minor editing.
 
 *Note*
 
-Images in logo created using [This Person Does Not
+Images in the logo used by [the GitHub
+organization](https://github.com/Protect-Children-From-Violence) were
+created using [This Person Does Not
 Exist](https://thispersondoesnotexist.com/)
 
